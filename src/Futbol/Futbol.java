@@ -12,8 +12,8 @@ public class Futbol{
         
         Jugador jugador1 = new Jugador("Lionel Messi", 34, "Delantero", 10);
         Jugador jugador2 = new Jugador("Sergio Ramos", 35, "Defensa", 4);
-        Jugador jugador3 = new Jugador("Gerard Piqué", 34, "Defensa", 3);
-        Jugador jugador4 = new Jugador("Marc-André ter Stegen", 29, "Portero", 1);
+        Jugador jugador3 = new Jugador("Gerard Pique", 34, "Defensa", 3);
+        Jugador jugador4 = new Jugador("Marc-Andre ter Stegen", 29, "Portero", 1);
         Jugador jugador5 = new Jugador("Sergio Busquets", 33, "Centrocampista", 5);
         Jugador jugador6 = new Jugador("Frenkie de Jong", 24, "Centrocampista", 21);
         Jugador jugador7 = new Jugador("Ansu Fati", 19, "Delantero", 31);
